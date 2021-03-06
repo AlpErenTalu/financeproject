@@ -1,5 +1,5 @@
-<template>
-    <h1>Anasayfaya hoşgeldin</h1>
+@<template>
+  <h1>currents</h1>
 </template>
 
 <script>
